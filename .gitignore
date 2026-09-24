@@ -1,0 +1,12 @@
+# === Zugangsdaten / Credentials — NIEMALS ins öffentliche Repo ===
+FTP Login.rtf
+Github logins.rtf
+*.rtf
+*.env
+secrets*
+
+# === macOS ===
+.DS_Store
+
+# === Lokale Editor-/Tool-Einstellungen ===
+.claude/settings.local.json
